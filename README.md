@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![pcismyname's GitHub stats](https://github-readme-stats.vercel.app/api?username=popurigo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popurigo&show_icons=true&theme=dark&layout=compact&langs_count=8&hide=jupyter+notebook&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=popurigo&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark)](https://git.io/streak-stats)
